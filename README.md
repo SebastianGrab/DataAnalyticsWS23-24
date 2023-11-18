@@ -2,8 +2,15 @@
 Data Analytics Vorlesung WS 2023/24
 
 
-Offen:
+21.11. Planung:
+    - Projektmappe Datenbereinigung
+    - Projektmappe Kommentare / Erkenntnisse
+    - Projektmappe Feature Selektion & Engineering
+    - Anforderungen 1 - 4 prüfen
+    - Anforderungen 5
+    - Dokumentation
 
-- Anforderungen 4: Analyse basierend Time Series
 
-- Projektmappe: Datenbereinigung & Feature Engineering
+28.11. Planung:
+    - Anforderungen 6
+    - ...
