@@ -9,6 +9,7 @@ Data Analytics Vorlesung WS 2023/24
     - Anforderungen 1 - 4 prüfen
     - Anforderungen 5
     - Dokumentation
+    - Josua: Anforderungen 2 (hauptsächl. Kommentare)
 
 
 28.11. Planung:
