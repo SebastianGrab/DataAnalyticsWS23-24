@@ -2,7 +2,7 @@
 Data Analytics Vorlesung WS 2023/24
 
 
-21.11. Planung:
+Bis 28.11.:
     - Projektmappe Datenbereinigung
     - Projektmappe Feature Selektion & Engineering
     - Anforderungen 5
