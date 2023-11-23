@@ -1,5 +1,6 @@
 # DataAnalyticsWS23-24
 Data Analytics Vorlesung WS 2023/24
+Neuer Dateiname: dataset_custom.csv
 
 
 Bis 28.11.:
@@ -13,12 +14,3 @@ Bis 28.11.:
 28.11. Planung:
     - Anforderungen 6
     - ...
-
-
-
-
-
-
-Eliminieren:
-
-Sehkraft, Hörkraft, Urinproteine, Serum Creatinine --> Nehmen wir raus, da Niere uns egal, 
