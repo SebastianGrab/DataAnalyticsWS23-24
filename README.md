@@ -4,8 +4,6 @@ Neuer Dateiname: dataset_custom.csv
 
 
 Bis 28.11.:
-    - Projektmappe Datenbereinigung
-    - Projektmappe Feature Engineering
     - Dokumentation
     - Josua: Projektmappe Kommentare/Erkenntnisse 
 
