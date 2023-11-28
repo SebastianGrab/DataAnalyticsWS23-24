@@ -3,11 +3,7 @@ Data Analytics Vorlesung WS 2023/24
 Neuer Dateiname: dataset_custom.csv
 
 
-Bis 28.11.:
-    - Dokumentation
-    - Josua: Projektmappe Kommentare/Erkenntnisse 
-
-
-28.11. Planung:
-    - Anforderungen 6
-    - ...
+To-Dos:
+    - Sebastian: Anforderungen 5 fertig; Projektmappe ergänzen
+    - Ime: Anforderungen 6 fertig
+    - Josua: Kommentare AF 6 + Projektmappe; Dokumentation
