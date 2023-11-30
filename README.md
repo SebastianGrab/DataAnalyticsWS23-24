@@ -4,6 +4,6 @@ Neuer Dateiname: dataset_custom.csv
 
 
 To-Dos:
-    - Sebastian: Anforderungen 5 fertig; Projektmappe ergänzen
+    - Sebastian: 
     - Ime: Anforderungen 6 fertig
     - Josua: Kommentare AF 6 + Projektmappe; Dokumentation
