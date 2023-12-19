@@ -4,6 +4,6 @@ Neuer Dateiname: dataset_custom.csv
 
 
 To-Dos:
-    - Sebastian: 
-    - Ime: Anforderungen 7 + 8 beginnen
-    - Josua: Anforderungen 7 Kommentare; Dokumentation
+    - Sebastian: Alles im Code überarbeiten
+    - Ime: 
+    - Josua: Dokumentation
